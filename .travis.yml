@@ -4,3 +4,9 @@ php:
   - 5.4
   - hhvm
 script: phpunit Test.php
+notifications:
+  email:
+    recipents: 
+      - mstaehely@gmail.com
+      - mstaehel@uw.edu
+    on_success: always

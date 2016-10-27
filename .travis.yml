@@ -9,4 +9,5 @@ notifications:
     recipents: 
       - mstaehely@gmail.com
       - mstaehel@uw.edu
+      - mstaehel@cs.washington.edu
     on_success: always
